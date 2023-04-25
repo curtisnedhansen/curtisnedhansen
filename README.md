@@ -15,5 +15,7 @@ Curtis is learning all about Github and Markdown. He is getting better by the *D
   - Analysis
   - Viz
 
+### Convo starters
+
 - 💬 Ask me about: Rural broadband development
 - ⚡ Fun fact: 5x Solo Freefall skydiving jumps
