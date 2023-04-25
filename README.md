@@ -4,10 +4,10 @@ Curtis is learning all about Github and Markdown. He is getting better by the *D
 
 ### Are you here to see some of my work?
 
-- (Resume)[https://github.com/curtisnedhansen/Resume]
-- (Example Codebook)[https://github.com/curtisnedhansen/ExampleCodebook]
-- (Example Presentation)[https://github.com/curtisnedhansen/ExamplePresentation]
-- (Example Code chunk)[https://github.com/curtisnedhansen/ExampleCode]
+- [📋 Resume](https://github.com/curtisnedhansen/Resume)
+- [📖 Example Codebook](https://github.com/curtisnedhansen/ExampleCodebook)
+- [📊 Example Presentation](https://github.com/curtisnedhansen/ExamplePresentation)
+- [👨‍💻 Example Code chunk](https://github.com/curtisnedhansen/ExampleCode)
 
 
 ### Convo starters
