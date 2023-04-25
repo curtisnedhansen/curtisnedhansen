@@ -2,18 +2,13 @@
 ## Graduate Student, American University
 Curtis is learning all about Github and Markdown. He is getting better by the *DAY*.  
 
-### Skillz
+### Are you here to see some of my work?
 
-- Programming  
-  -`R/RStudio`  
-  -Python  
-- Statistics and econometrics
-  - Descriptive analysis
-  - Regression  
-- Data stuff
-  - Munging
-  - Analysis
-  - Viz
+- (Resume)[https://github.com/curtisnedhansen/Resume]
+- (Example Codebook)[https://github.com/curtisnedhansen/ExampleCodebook]
+- (Example Presentation)[https://github.com/curtisnedhansen/ExamplePresentation]
+- (Example Code chunk)[https://github.com/curtisnedhansen/ExampleCode]
+
 
 ### Convo starters
 
